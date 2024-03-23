@@ -3,4 +3,8 @@
 # Prodigy_Data-Science_Task-01
 
 
-# Creating a Bar or Histogram Visualization You can use this code to create a bar or histogram visualization of the distribution of a categorical or continuous variable in your population dataset. For example, you can visualize the distribution of ages or gender in the population.
+ Creating a Bar or Histogram Visualization You can use this code to create a bar or histogram visualization of the distribution of a categorical or continuous variable in your population dataset. For example, you can visualize the distribution of ages or gender in the population.
+
+
+ I have done this task by using MS Excel and the data in it is randomly picked and analyze this random data, I did this task.
+ 
